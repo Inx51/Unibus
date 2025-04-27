@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unibus", "Unibus\Unibus.csproj", "{8359A1E3-EC6C-4676-99D1-FFE16868CD66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unibus.Sample", "Unibus.Sample\Unibus.Sample.csproj", "{13B60A8B-471C-4D16-8B73-F7B6F3529C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8359A1E3-EC6C-4676-99D1-FFE16868CD66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8359A1E3-EC6C-4676-99D1-FFE16868CD66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8359A1E3-EC6C-4676-99D1-FFE16868CD66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8359A1E3-EC6C-4676-99D1-FFE16868CD66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B60A8B-471C-4D16-8B73-F7B6F3529C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B60A8B-471C-4D16-8B73-F7B6F3529C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B60A8B-471C-4D16-8B73-F7B6F3529C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B60A8B-471C-4D16-8B73-F7B6F3529C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
